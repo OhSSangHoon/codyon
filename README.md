@@ -30,3 +30,7 @@
 
 - 패션 유형 설명 -
 ![categorypage](https://user-images.githubusercontent.com/114225559/191999416-ca952824-1e55-43e4-ab17-1b0ad87a2577.png)
+
+
+추가 해야할 기능들
+ID중복(무결성 검사) / password 조건 추가 / 계정별 mypage 이미지 DB저장
