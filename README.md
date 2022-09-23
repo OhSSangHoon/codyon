@@ -1,7 +1,13 @@
 # codyon
-
-<h3 style="color:orange;">used language</h3>
-
+<h2>💬used language💬
+<br>
+<br>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white">
+</h2>
 
 - 메인 페이지입니다 -
 ![mainpage](https://user-images.githubusercontent.com/114225559/191999002-2243c23a-75f0-4146-9e2a-4d74e6a76581.png)
