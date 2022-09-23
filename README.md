@@ -1,5 +1,7 @@
 # codyon
 
+<h3>used language</h3>
+
 
 - 메인 페이지입니다 -
 ![mainpage](https://user-images.githubusercontent.com/114225559/191999002-2243c23a-75f0-4146-9e2a-4d74e6a76581.png)
