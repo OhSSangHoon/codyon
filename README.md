@@ -1,6 +1,6 @@
 # codyon
 
-<h3>used language</h3>
+<h3 style="color:orange;">used language</h3>
 
 
 - 메인 페이지입니다 -
